@@ -6,3 +6,9 @@ Currently work fine perfectly, but some features may give you error. Please repo
 
 # Installation Guide 
 - Deploy To Heroku 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Aruoto/Death-Run)
+
+## String Session
+Generate From 
+• [Repl.run](https://replit.com/@Aruoto/CynicsStrGen)
