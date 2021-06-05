@@ -18,7 +18,10 @@ except (NoOptionError, NoSectionError):
 async def main(api_id, api_hash):
     """generate StringSession for the current MemorySession"""
     async with Client(':memory:', api_id=api_id, api_hash=api_hash) as app:
-        print(await app.export_session_string())
+        await app.send_message(
+            "me", f"#STRING_SESSION\n\n```{await app.export_session_string()}```"
+        )
+        print("Done !, session string has been sent to saved messages!")
 
 
 if __name__ == '__main__':
