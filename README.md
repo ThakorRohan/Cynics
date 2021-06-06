@@ -14,4 +14,4 @@ Currently work fine perfectly, but some features may give you error. Please repo
 Generate From 
 • [Repl.run](https://replit.com/@Aruoto/CynicsStrGen)
 
-> **Powered By [@TheCrazyNetwork](https://t.me/TheCrazyNetwork)
+> **Powered By [@TheCrazyNetwork](https://t.me/TheCrazyNetwork)**
