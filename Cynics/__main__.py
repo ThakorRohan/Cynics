@@ -7,7 +7,7 @@ from pyrogram import idle
 from pyrogram.types import InlineKeyboardButton
 
 from pykeyboard import InlineKeyboard
-
+from Cynics import config
 from Cynics import app
 from Cynics import Owner
 from Cynics import log
