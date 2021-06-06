@@ -5,7 +5,7 @@ import platform
 import sys
 import time
 from inspect import getfullargspec
-from Cynics import config.ini
+from Cynics import config
 from pydrive.auth import GoogleAuth
 from pyrogram import Client
 from pyrogram import errors
